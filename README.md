@@ -202,3 +202,6 @@ You can test a pipeline without waiting for the schedule:
 - **Virtual Environment Not Found**: Ensure `~/spark-env/bin/activate` exists on the self-hosted runner.
 - **Java / Spark Path Mismatch**: Verify `JAVA_HOME` and `SPARK_HOME` paths on your runner match the environment settings.
 - **Permission Denied**: If `run_pipeline.py` fails to run, make it executable via `git update-index --chmod=+x run_pipeline.py`.
+=======
+# group1
+DAT535-group repo consisting of Emil Hvidsten-Møller and Eirik Søyland
