@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Github Action trigger
 """
 DAT535 Lab 2: Spark Fundamentals & the Medallion Architecture Pipeline
 ========================================================================
