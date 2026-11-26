@@ -1,0 +1,6 @@
+pandas
+statsbombpy
+meteostat
+regex
+pyspark
+geopy
