@@ -31,3 +31,13 @@ jobs:
 
           echo "=== Running Dev Pipeline ==="
           python main.py
+
+       -  name: Write pipeline summary
+          if: always()
+          run: |
+            echo "## Football Data Pipeline" >> "$GITHUB_STEP_SUMMARY"
+            echo "- Environment: $DAT535_ENV" >> "$GITHUB_STEP_SUMMARY"
+            echo "- Branch: ${{ github.ref_name }}" >> "$GITHUB_STEP_SUMMARY"
+            echo "- Run: ${{ github.run_number }}" >> "$GITHUB_STEP_SUMMARY"
+            echo "- Status: ${{ job.status }}" >> "$GITHUB_STEP_SUMMARY"
+            echo "- Output directory: $DAT535_OUTPUT_DIR" >> "$GITHUB_STEP_SUMMARY"
