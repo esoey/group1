@@ -1,6 +1,7 @@
 from pipeline import Pipeline
+import os
 
-pipeline = Pipeline()
+pipeline = Pipeline(data_dir=os.getenv("STATSBOMB_DATA_DIR"))
 
 def bronze(category: str = None):
     print("="*60)
