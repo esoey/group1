@@ -14,6 +14,7 @@ jobs:
       DAT535_ENV: dev
       JAVA_HOME: /usr/lib/jvm/java-17-openjdk-amd64
       STATSBOMB_DATA_DIR: /home/ubuntu/group1/open-data
+      DAT535_OUTPUT_DIR: /home/ubuntu/football-data/dev
     steps:
       - name: Checkout code
         uses: actions/checkout@v7

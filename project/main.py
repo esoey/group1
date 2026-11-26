@@ -1,7 +1,7 @@
 from pipeline import Pipeline
 import os
 
-pipeline = Pipeline(data_dir=os.getenv("STATSBOMB_DATA_DIR"))
+pipeline = Pipeline(data_dir=os.getenv("STATSBOMB_DATA_DIR"), shared_dir=os.getenv("DAT535_OUTPUT_DIR"))
 
 def bronze(category: str = None):
     print("="*60)
