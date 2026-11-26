@@ -19,6 +19,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v7
 
+      - name: Install dependencies
+        working-directory: project
+        run: |
+          source ~/football-env/bin/activate
+          python -m pip install -r requirements.txt
+
       - name: Update Statsbomb data
         working-directory: /home/ubuntu/group1/open-data
         run: git pull --ff-only
