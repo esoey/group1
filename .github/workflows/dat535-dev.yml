@@ -19,6 +19,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v7
 
+      - name: Update Statsbomb data
+        working-directory: /home/ubuntu/group1/open-data
+        run: git pull --ff-only
+
       - name: Run Football Pipeline
         working-directory: project
         run: |
