@@ -1,7 +1,7 @@
 """
 Helper functions for data paths, schema, and retrieval of coordinates of stadiums.
 """
-
+import os
 import json
 import logging
 from pathlib import Path
@@ -17,7 +17,7 @@ from pyspark.sql.types import (
 
 logger = logging.getLogger(__name__)
 
-CACHE_PATH = Path(__file__).parent.parent / "data" / "stadium_coordinates.json" 
+CACHE_PATH = os.getenv("COORDINATES_CACHE_PATH")
 
 geo_locator = Nominatim(user_agent="dat535-football-stats")
 
