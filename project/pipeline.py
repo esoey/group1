@@ -118,7 +118,7 @@ class Pipeline:
             try:
                 coordinates = get_coordinates(row["stadium"], row["country"])
             except KeyError as e:
-                logger.info(f"No stadium found for {row["stadium"]} in {row["country"]}.")
+                logger.info(f"No stadium found for {row['stadium']} in {row['country']}.")
                 continue
             # if coordinates is None:
             #     continue
