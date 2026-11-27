@@ -132,6 +132,8 @@ def get_coordinates(stadium, country = None):
         query = stadium
 
     if query in cache:
+        if cache[query] is None:
+            return None
         return tuple(cache[query])
     else:
         coords = geolocate(query)
