@@ -137,7 +137,7 @@ def get_coordinates(stadium, country = None):
         coords = geolocate(query)
         cache[query] = coords
         with open(CACHE_PATH, "w", encoding="utf-8") as f:
-            json.dumps(cache, f, indent=4, ensure_ascii=False)
+            json.dump(cache, f, indent=4, ensure_ascii=False)
 
 
 def geolocate(query):
