@@ -120,8 +120,8 @@ class Pipeline:
             except KeyError as e:
                 logger.info(f"No stadium found for {row['stadium']} in {row['country']}.")
                 continue
-            # if coordinates is None:
-            #     continue
+            if coordinates is None:
+                continue
 
             lat, long = coordinates
 

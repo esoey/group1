@@ -117,8 +117,6 @@ def get_coordinates(stadium, country = None):
     # TODO: Remove when transferred to cache-file.
     if stadium in stadium_coordinates:
         return stadium_coordinates[stadium]
-    else:
-        raise KeyError("No stadium found in cache")
     
     # load cached coordinates
     if CACHE_PATH.exists():
