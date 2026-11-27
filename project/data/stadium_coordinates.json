@@ -100,11 +100,11 @@
         13.1997411
     ],
     "Stadio Olimpico Grande Torino, Italy": null,
-    "Estadio Ol\u00edmpico, Italy": [
+    "Estadio Olímpico, Italy": [
         46.544498,
         12.1331685
     ],
-    "MAPEI Stadium - Citt\u00e0 del Tricolore, Italy": [
+    "MAPEI Stadium - Città del Tricolore, Italy": [
         44.7145456,
         10.6497308
     ],
@@ -141,7 +141,7 @@
         7.4154577
     ],
     "Stade Matmut Atlantique, France": null,
-    "Orange V\u00e9lodrome, France": [
+    "Orange Vélodrome, France": [
         43.2698474,
         5.3959082
     ],
@@ -162,7 +162,7 @@
         47.256005,
         -1.5247552
     ],
-    "Stade Armand-C\u00e9sari, France": [
+    "Stade Armand-Césari, France": [
         42.6514849,
         9.4427194
     ],
@@ -171,7 +171,7 @@
         48.8413634,
         2.2530693
     ],
-    "Decathlon Arena \u2013 Stade Pierre-Mauroy, France": [
+    "Decathlon Arena – Stade Pierre-Mauroy, France": [
         50.6119044,
         3.130508
     ],
@@ -204,9 +204,9 @@
         45.7237756,
         4.8322517
     ],
-    "Centro Deportivo Alcal\u00e1 de Henares, Spain": null,
-    "Campo de F\u00fatbol de Adeje, Spain": null,
-    "Ciudad Deportiva de Bu\u00f1ol - Campo 1, Spain": null,
+    "Centro Deportivo Alcalá de Henares, Spain": null,
+    "Campo de Fútbol de Adeje, Spain": null,
+    "Ciudad Deportiva de Buñol - Campo 1, Spain": null,
     "Ciudad Deportiva Luis de Sol, Spain": null,
     "Estadio Fernando Torres, Spain": [
         40.2911126,
@@ -214,10 +214,10 @@
     ],
     "Estadio Antonio Puchades, Spain": null,
     "Instalaciones de Zubieta, Spain": null,
-    "Ciudad Deportiva Dec\u00e1no del F\u00fatbol Espa\u00f1ol, Spain": null,
+    "Ciudad Deportiva Decáno del Fútbol Español, Spain": null,
     "Instalaciones de Lezama Campo 2, Spain": null,
     "Ciudad Deportiva del Villarreal, Spain": null,
-    "Estadio Jes\u00fas Navas, Spain": [
+    "Estadio Jesús Navas, Spain": [
         37.3522301,
         -5.9460974
     ],
@@ -227,7 +227,7 @@
         41.3742003,
         2.0505529
     ],
-    "Ciudad Deportiva Francisco Rubio Garc\u00e9s, Spain": null,
+    "Ciudad Deportiva Francisco Rubio Garcés, Spain": null,
     "Campo del CD Lamiya, Spain": null,
     "Estadio Municipal Escribano Castilla, Spain": [
         36.7544548,
@@ -308,7 +308,7 @@
         49.4262569,
         11.1256706
     ],
-    "Stadion an der Hafenstra\u00dfe, Germany": [
+    "Stadion an der Hafenstraße, Germany": [
         51.4868685,
         6.9766158
     ],
@@ -513,5 +513,392 @@
     "Accor Stadium, Australia": [
         -33.8471082,
         151.0633848
+    ],
+    "Nonexistent Stadium XYZ123": null,
+    "Suncorp Stadium, Australia": [
+        -27.4648602,
+        153.0096055
+    ],
+    "Al Thumama Stadium, Qatar": [
+        25.2353106,
+        51.5329152
+    ],
+    "Sheikh Khalifa International Stadium, Qatar": null,
+    "Ahmad bin Ali Stadium, Qatar": [
+        25.3296917,
+        51.3423218
+    ],
+    "Al Bayt Stadium, Qatar": [
+        25.6521339,
+        51.4878055
+    ],
+    "Education City Stadium, Qatar": [
+        25.3108533,
+        51.4244477
+    ],
+    "Al Janoub Stadium, Qatar": [
+        25.1597079,
+        51.5742271
+    ],
+    "Stadium 974, Qatar": [
+        25.2887882,
+        51.5663991
+    ],
+    "Lusail Stadium, Qatar": [
+        25.420791,
+        51.4903763
+    ],
+    "Ak Bars Arena, Russia": [
+        55.821149,
+        49.1604977
+    ],
+    "Rostov Arena, Russia": [
+        47.2093548,
+        39.7382824
+    ],
+    "Stadion Nizhny Novgorod (Nizhniy Novgorod), Russia": null,
+    "Otkritie Bank Arena, Russia": null,
+    "Rostec Arena, Russia": null,
+    "Stadion Luzhniki, Russia": [
+        55.7157445,
+        37.5537673
+    ],
+    "Ekaterinburg Arena, Russia": null,
+    "Mordovia Arena, Russia": [
+        54.1818304,
+        45.2044289
+    ],
+    "Volgograd Arena, Russia": [
+        48.7344642,
+        44.5473936
+    ],
+    "Saint-Petersburg Stadium ( Gazprom Arena ), Russia": null,
+    "Olimpiyskiy Stadion Fisht, Russia": null,
+    "Solidarnost Arena, Russia": [
+        53.2780085,
+        50.2375022
+    ],
+    "Stade Laurent Pokou, Côte d'Ivoire": [
+        4.8162397,
+        -6.6294661
+    ],
+    "Stade Félix Houphouët-Boigny, Côte d'Ivoire": [
+        5.3283047,
+        -4.0185225
+    ],
+    "Stade de Bouaké, Côte d'Ivoire": [
+        7.6829896,
+        -5.0445635
+    ],
+    "Stade Charles Konan Banny de Yamoussoukro, Côte d'Ivoire": [
+        6.8285402,
+        -5.2462203
+    ],
+    "Stade Amadou Gon Coulibaly, Côte d'Ivoire": [
+        9.409748,
+        -5.6289542
+    ],
+    "Stade Olympique Alassane Ouattara, Côte d'Ivoire": [
+        5.4804988,
+        -4.0745027
+    ],
+    "Stade du Hainaut, France": [
+        50.3484274,
+        3.5317455
+    ],
+    "Stade Océane, France": [
+        49.4987513,
+        0.1694637
+    ],
+    "Stade des Alpes, France": null,
+    "Wembley Stadium, England": [
+        51.5560695,
+        -0.2796034
+    ],
+    "Arena Naţională, Romania": [
+        44.4372494,
+        26.1524758
+    ],
+    "Puskás Aréna, Hungary": [
+        47.503109,
+        19.0980509
+    ],
+    "Bakı Olimpiya Stadionu, Azerbaijan": [
+        40.429982,
+        49.919531
+    ],
+    "Hampden Park, Scotland": [
+        55.825996,
+        -4.2519051
+    ],
+    "Johan Cruijff Arena (Amsterdam), Netherlands": [
+        52.314353,
+        4.9428431
+    ],
+    "Parken, Denmark": [
+        55.7027043,
+        12.5722638
+    ],
+    "VELTINS-Arena, Germany": [
+        51.5545938,
+        7.0676001
+    ],
+    "Olympiastadion Berlin, Germany": [
+        52.5145846,
+        13.2398144
+    ],
+    "Signal-Iduna-Park, Germany": [
+        51.4924922,
+        7.4518549
+    ],
+    "Volksparkstadion, Germany": [
+        53.5871535,
+        9.8987056
+    ],
+    "Merkur Spiel-Arena, Germany": [
+        51.261629,
+        6.7331516
+    ],
+    "MHPArena, Germany": [
+        48.7922488,
+        9.2320857
+    ],
+    "Yurcak Field, United States of America": null,
+    "Maureen Hendricks Field Maryland SoccerPlex, United States of America": null,
+    "America First Field, United States of America": [
+        40.5829593,
+        -111.8932933
+    ],
+    "UW Medicine Pitch at Memorial Stadium, United States of America": null,
+    "Arsenal Stadium, England": null,
+    "MATRADE Loftus Road, England": [
+        51.5094016,
+        -0.2321136
+    ],
+    "Molineux Stadium, England": [
+        52.5902723,
+        -2.1304079
+    ],
+    "Riverside Stadium, England": [
+        54.5783134,
+        -1.2169153
+    ],
+    "Elland Road, England": null,
+    "Ewood Park, England": [
+        53.7285283,
+        -2.4892251
+    ],
+    "Toughsheet Community Stadium, England": [
+        53.5805396,
+        -2.5356648
+    ],
+    "The Valley, England": [
+        51.4863915,
+        0.0361585
+    ],
+    "Stadion An der Alten Försterei, Germany": [
+        52.4569741,
+        13.5680789
+    ],
+    "Vonovia Ruhrstadion, Germany": [
+        51.4900826,
+        7.2365091
+    ],
+    "Merck-Stadion am Böllenfalltor, Germany": [
+        49.85771,
+        8.6724145
+    ],
+    "Europa-Park Stadion, Germany": [
+        48.0213778,
+        7.829817
+    ],
+    "Voith-Arena, Germany": [
+        48.6685245,
+        10.1392963
+    ],
+    "WWK Arena, Germany": [
+        48.3231179,
+        10.885879
+    ],
+    "Mewa Arena, Germany": [
+        49.9839451,
+        8.2244738
+    ],
+    "Stadion im BORUSSIA-PARK, Germany": [
+        51.1746249,
+        6.3854094
+    ],
+    "Audi-Sportpark, Germany": [
+        48.7452797,
+        11.4855268
+    ],
+    "Heinz von Heiden-Arena, Germany": [
+        52.360026,
+        9.7310161
+    ],
+    "Levi''s Stadium, United States of America": [
+        37.4029867,
+        -121.9696489
+    ],
+    "Q2 Stadium, United States of America": null,
+    "MetLife Stadium, United States of America": [
+        40.8135071,
+        -74.0743442
+    ],
+    "AT&T Stadium, United States of America": [
+        32.7478503,
+        -97.0928337
+    ],
+    "Allegiant Stadium, United States of America": [
+        36.0907359,
+        -115.1833303
+    ],
+    "NRG Stadium, United States of America": [
+        29.6848581,
+        -95.4108015
+    ],
+    "Hard Rock Stadium, United States of America": [
+        25.9579032,
+        -80.2388497
+    ],
+    "SoFi Stadium, United States of America": [
+        33.9534074,
+        -118.3390098
+    ],
+    "State Farm Stadium, United States of America": [
+        33.5270393,
+        -112.2617088
+    ],
+    "Arrowhead Stadium, United States of America": [
+        39.0489358,
+        -94.4839993
+    ],
+    "Bank of America Stadium, United States of America": [
+        35.225774,
+        -80.8528276
+    ],
+    "Mercedes-Benz Stadium, United States of America": [
+        33.7554123,
+        -84.4008493
+    ],
+    "Stade Francis-Le Blé, France": [
+        48.4030423,
+        -4.4613605
+    ],
+    "Stade Gabriel Montpied, France": [
+        45.8158775,
+        3.1215004
+    ],
+    "Stade de la Meinau, France": [
+        48.5599481,
+        7.7551221
+    ],
+    "Stade de l''Abbé Deschamps, France": null,
+    "Stade Michel-Moretti, France": [
+        41.9308308,
+        8.776793
+    ],
+    "Stockhorn Arena, Switzerland": [
+        46.7445867,
+        7.6065694
+    ],
+    "Stade de Tourbillon, Switzerland": [
+        46.2334123,
+        7.3760093
+    ],
+    "Stade de Genève, Switzerland": [
+        46.1778265,
+        6.1274087
+    ],
+    "St. Jakob-Park, Switzerland": [
+        47.5416464,
+        7.6201249
+    ],
+    "Stadion Letzigrund, Switzerland": [
+        47.3828206,
+        8.5037387
+    ],
+    "Stadion Wankdorf, Switzerland": [
+        46.9631042,
+        7.4648638
+    ],
+    "Kybunpark, Switzerland": null,
+    "swissporarena, Switzerland": null,
+    "Bramall Lane, England": [
+        53.3703429,
+        -1.4707145
+    ],
+    "Gtech Community Stadium, England": [
+        51.490713,
+        -0.2889802
+    ],
+    "Stadium MK, England": [
+        52.009625,
+        -0.7335404
+    ],
+    "AESSEAL New York Stadium, England": [
+        53.4267854,
+        -1.362678
+    ],
+    "Stade Bollaert-Delelis, France": [
+        50.4328242,
+        2.8149863
+    ],
+    "Chase Stadium, United States of America": [
+        26.1932426,
+        -80.16068
+    ],
+    "Estadio Jalisco, Mexico": [
+        20.7047861,
+        -103.3276735
+    ],
+    "Estadio Azteca, Mexico": [
+        19.3029794,
+        -99.15047
+    ],
+    "Parkstadion Obenende, Germany": null,
+    "Olympiastadion München, Germany": [
+        48.1731314,
+        11.5464786
+    ],
+    "Friends Arena, Sweden": [
+        59.3725039,
+        18.0016672
+    ],
+    "Japan National Stadium (Tōkyō (Tokyo)), Japan": null,
+    "Stadio delle Alpi, Italy": null,
+    "La Bombonera, Argentina": [
+        -34.6355171,
+        -58.3649163
+    ],
+    "Olympiako Stadio Spyros Louis, Greece": null,
+    "Stadion Feijenoord (De Kuip), Netherlands": [
+        51.8938646,
+        4.5232281
+    ],
+    "Olympic Stadium, Ukraine": null,
+    "Estádio da Luz, Portugal": [
+        38.7526893,
+        -9.1846899
+    ],
+    "Principality Stadium, Wales": [
+        51.4782484,
+        -3.1826256
+    ],
+    "Estadio Mâs Monumental, Argentina": [
+        -34.5452932,
+        -58.4497385
+    ],
+    "Atatürk Olimpiyat Stadı, Turkey": [
+        41.0744732,
+        28.7656611
+    ],
+    "Stadion Rajko Mitić, Serbia": [
+        44.7832203,
+        20.4646751
+    ],
+    "Estadio Sausalito, Chile": [
+        -33.0144473,
+        -71.5341445
     ]
 }
