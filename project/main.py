@@ -1,7 +1,6 @@
 from pipeline import Pipeline
-import os
 
-pipeline = Pipeline(data_dir=os.getenv("STATSBOMB_DATA_DIR"), shared_dir=os.getenv("DAT535_OUTPUT_DIR"))
+pipeline = Pipeline()
 
 def bronze(category: str = None):
     print("="*60)
@@ -49,4 +48,4 @@ def bronze(category: str = None):
         print(f"Finished saving data to Parquet for {category} with size {df.count()}.")
         df.unpersist()
 
-bronze("competitions")
+bronze()
