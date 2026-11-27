@@ -17,7 +17,7 @@ from pyspark.sql.types import (
 
 logger = logging.getLogger(__name__)
 
-CACHE_PATH = Path(os.getenv("COORDINATES_CACHE_PATH"))
+CACHE_PATH = Path(os.getenv("COORDINATES_CACHE_PATH", str(Path(__file__).resolve().parent.parent / "data/stadium_coordinates.json")))
 
 geo_locator = Nominatim(user_agent="dat535-football-stats")
 

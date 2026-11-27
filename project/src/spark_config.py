@@ -11,9 +11,11 @@ def initialize_spark():
     """
     spark = SparkSession.builder \
     .appName("DAT535-Project-FootballStats") \
+    .master("local[4]") \
     .config("spark.sql.adaptive.enabled", "true") \
     .config("spark.sql.shuffle.partitions", "8") \
     .config("spark.driver.memory", "2g") \
+    .config("spark.sql.session.timeZone", "Europe/Madrid") \
     .getOrCreate()
 
     spark.sparkContext.setLogLevel("WARN")
