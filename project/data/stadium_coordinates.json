@@ -6,5 +6,512 @@
     "Lyse Arena, Norway": [
         58.9145955,
         5.7309977
+    ],
+    "Old Trafford, England": [
+        53.4631096,
+        -2.2913865
+    ],
+    "Villa Park, England": [
+        52.5091264,
+        -1.8850354
+    ],
+    "Emirates Stadium, England": [
+        51.5550404,
+        -0.1083997
+    ],
+    "Swansea.com Stadium, Wales": [
+        51.6428065,
+        -3.934739
+    ],
+    "St. Mary's Stadium, England": [
+        50.9058615,
+        -1.3908774
+    ],
+    "Anfield, England": [
+        53.4309011,
+        -2.9609719
+    ],
+    "King Power Stadium, England": [
+        52.620397,
+        -1.1423352
+    ],
+    "The Hawthorns, England": [
+        52.5091654,
+        -1.9636621
+    ],
+    "St. James' Park, England": [
+        54.9754693,
+        -1.6218737
+    ],
+    "Goodison Park, England": [
+        53.4386898,
+        -2.9664193
+    ],
+    "Selhurst Park, England": [
+        51.3982429,
+        -0.0852551
+    ],
+    "White Hart Lane, England": [
+        51.604157,
+        -0.0662604
+    ],
+    "Stadium of Light, England": [
+        54.9143953,
+        -1.3882579
+    ],
+    "bet365 Stadium, England": [
+        52.9883401,
+        -2.1755919
+    ],
+    "Vitality Stadium, England": [
+        50.7351815,
+        -1.8383279
+    ],
+    "Carrow Road, England": [
+        52.6220315,
+        1.3093222
+    ],
+    "Vicarage Road, England": null,
+    "Etihad Stadium, England": [
+        53.4831448,
+        -2.2005273
+    ],
+    "Boleyn Ground, England": null,
+    "Stadio Marc'Antonio Bentegodi, Italy": null,
+    "Stadio Giuseppe Meazza, Italy": [
+        45.4782003,
+        9.123964
+    ],
+    "Stadio Alberto Braglia (Modena), Italy": [
+        44.6534273,
+        10.9230941
+    ],
+    "Stadio Comunale Luigi Ferraris, Italy": [
+        44.4164753,
+        8.9525341
+    ],
+    "New Balance Arena, Italy": [
+        45.7092068,
+        9.6808327
+    ],
+    "Stadio Comunale Matusa, Italy": null,
+    "Stadio Friuli, Italy": [
+        46.081402,
+        13.1997411
+    ],
+    "Stadio Olimpico Grande Torino, Italy": null,
+    "Estadio Ol\u00edmpico, Italy": [
+        46.544498,
+        12.1331685
+    ],
+    "MAPEI Stadium - Citt\u00e0 del Tricolore, Italy": [
+        44.7145456,
+        10.6497308
+    ],
+    "Stadio Diego Armando Maradona, Italy": [
+        40.8279773,
+        14.192889
+    ],
+    "Allianz Stadium, Italy": [
+        45.1095759,
+        7.6421338
+    ],
+    "Stadio Renato Dall''Ara, Italy": [
+        44.492317,
+        11.3099971
+    ],
+    "Stadio Renzo Barbera, Italy": [
+        38.1528194,
+        13.3420112
+    ],
+    "Stadio Artemio Franchi, Italy": [
+        43.3216868,
+        11.326179
+    ],
+    "Stadio Carlo Castellani, Italy": [
+        43.7265476,
+        10.9547274
+    ],
+    "Stade de l''Aube, France": [
+        48.3075171,
+        4.0985168
+    ],
+    "Stade Louis II, Monaco": [
+        43.7275713,
+        7.4154577
+    ],
+    "Stade Matmut Atlantique, France": null,
+    "Orange V\u00e9lodrome, France": [
+        43.2698474,
+        5.3959082
+    ],
+    "Stade Michel d''Ornano, France": [
+        49.1794925,
+        -0.3969526
+    ],
+    "Roazhon Park, France": null,
+    "Stade Yves Allainmat - du Moustoir, France": [
+        47.7488021,
+        -3.3695412
+    ],
+    "Stade Geoffroy-Guichard, France": [
+        45.4607567,
+        4.3900932
+    ],
+    "Stade de la Beaujoire - Louis Fonteneau, France": [
+        47.256005,
+        -1.5247552
+    ],
+    "Stade Armand-C\u00e9sari, France": [
+        42.6514849,
+        9.4427194
+    ],
+    "Stade du Roudourou, France": null,
+    "Parc des Princes, France": [
+        48.8413634,
+        2.2530693
+    ],
+    "Decathlon Arena \u2013 Stade Pierre-Mauroy, France": [
+        50.6119044,
+        3.130508
+    ],
+    "Stade Ange Casanova (Ajaccio), France": [
+        41.951326,
+        8.7719505
+    ],
+    "Stade Raymond-Kopa, France": [
+        47.4605516,
+        -0.5306948
+    ],
+    "Stade Auguste-Delaune II, France": null,
+    "Groupama Stadium, France": [
+        45.7653624,
+        4.9820543
+    ],
+    "Allianz Riviera, France": [
+        43.7051477,
+        7.1926033
+    ],
+    "Stade de la Mosson, France": [
+        43.622022,
+        3.8120898
+    ],
+    "Stadium de Toulouse, France": [
+        43.5832262,
+        1.4340638
+    ],
+    "Stade de Gerland, France": [
+        45.7237756,
+        4.8322517
+    ],
+    "Centro Deportivo Alcal\u00e1 de Henares, Spain": null,
+    "Campo de F\u00fatbol de Adeje, Spain": null,
+    "Ciudad Deportiva de Bu\u00f1ol - Campo 1, Spain": null,
+    "Ciudad Deportiva Luis de Sol, Spain": null,
+    "Estadio Fernando Torres, Spain": [
+        40.2911126,
+        -3.8266898
+    ],
+    "Estadio Antonio Puchades, Spain": null,
+    "Instalaciones de Zubieta, Spain": null,
+    "Ciudad Deportiva Dec\u00e1no del F\u00fatbol Espa\u00f1ol, Spain": null,
+    "Instalaciones de Lezama Campo 2, Spain": null,
+    "Ciudad Deportiva del Villarreal, Spain": null,
+    "Estadio Jes\u00fas Navas, Spain": [
+        37.3522301,
+        -5.9460974
+    ],
+    "Camp Municipal Les Planes, Spain": null,
+    "Ciudad Deportiva del Granada CF, Spain": null,
+    "Estadi Johan Cruyff, Spain": [
+        41.3742003,
+        2.0505529
+    ],
+    "Ciudad Deportiva Francisco Rubio Garc\u00e9s, Spain": null,
+    "Campo del CD Lamiya, Spain": null,
+    "Estadio Municipal Escribano Castilla, Spain": [
+        36.7544548,
+        -3.5127893
+    ],
+    "Estadio de La Cartuja, Spain": [
+        37.4172353,
+        -6.0046134
+    ],
+    "Mini Estadi, Spain": null,
+    "Campo Federativo de la Orden, Spain": null,
+    "Estadio La Palmera, Spain": [
+        37.3564503,
+        -5.9809176
+    ],
+    "Shell Energy Stadium, United States of America": [
+        29.7520265,
+        -95.3523409
+    ],
+    "Children''s Mercy Park, United States of America": null,
+    "WakeMed Soccer Park, United States of America": null,
+    "Audi Field, United States of America": [
+        38.8682612,
+        -77.0126092
+    ],
+    "Lynn Family Stadium, United States of America": [
+        38.2593321,
+        -85.7325522
+    ],
+    "Snapdragon Stadium, United States of America": [
+        32.7842418,
+        -117.1223904
+    ],
+    "SeatGeek Stadium, United States of America": [
+        41.7648089,
+        -87.8061921
+    ],
+    "Providence Park, United States of America": [
+        45.5215291,
+        -122.6918185
+    ],
+    "Lumen Field, United States of America": [
+        47.5953459,
+        -122.3316443
+    ],
+    "BMO Stadium, United States of America": [
+        34.012814,
+        -118.2840892
+    ],
+    "Sports Illustrated Stadium, United States of America": [
+        40.7368897,
+        -74.1502625
+    ],
+    "Inter&Co Stadium, United States of America": [
+        28.5411041,
+        -81.3891411
+    ],
+    "Dietmar-Hopp-Stadion, Germany": [
+        49.2782943,
+        8.8422013
+    ],
+    "Weserstadion Platz 11, Germany": [
+        53.0637926,
+        8.8429626
+    ],
+    "Stadion am Brentanobad, Germany": [
+        50.124871,
+        8.6204827
+    ],
+    "Trainingszentrum RB Leipzig Platz 1, Germany": null,
+    "FC Bayern Campus Platz 1, Germany": null,
+    "Allianz Arena, Germany": [
+        48.2187919,
+        11.6236283
+    ],
+    "Franz-Kremer-Stadion, Germany": null,
+    "Max-Morlock-Stadion, Germany": [
+        49.4262569,
+        11.1256706
+    ],
+    "Stadion an der Hafenstra\u00dfe, Germany": [
+        51.4868685,
+        6.9766158
+    ],
+    "BayArena, Germany": [
+        51.0381439,
+        7.0030964
+    ],
+    "PreZero Arena, Germany": [
+        49.2380604,
+        8.8876414
+    ],
+    "Ulrich-Haberland-Stadion, Germany": [
+        51.0373853,
+        7.0002544
+    ],
+    "AOK Stadion, Germany": [
+        52.4344908,
+        10.8068574
+    ],
+    "Dreisamstadion, Germany": [
+        47.989061,
+        7.893011
+    ],
+    "Volkswagen Arena, Germany": [
+        52.4326524,
+        10.8038151
+    ],
+    "Schauinsland-Reisen-Arena (Duisburg) MSV-Arena, Germany": null,
+    "Max-Morlock-Platz im Sportpark Valznerweiher, Germany": null,
+    "Wohninvest Weserstadion, Germany": null,
+    "Deutsche Bank Park, Germany": [
+        50.0686103,
+        8.6454154
+    ],
+    "RheinEnergieStadion, Germany": [
+        50.9335055,
+        6.8751167
+    ],
+    "Red Bull Arena, Germany": [
+        51.3457078,
+        12.3482361
+    ],
+    "Leigh Sports Village Stadium, England": [
+        53.4897223,
+        -2.5301637
+    ],
+    "Broadfield Stadium, England": [
+        51.0995727,
+        -0.1947428
+    ],
+    "ARMCO Arena, England": null,
+    "American Express Elite Football Performance Centre, England": null,
+    "Poundland Bescot Stadium, England": [
+        52.5655014,
+        -1.9904976
+    ],
+    "Meadow Park, England": [
+        51.6620315,
+        -0.2724395
+    ],
+    "Kingsmeadow, England": [
+        51.4051256,
+        -0.2819645
+    ],
+    "Madejski Stadium, England": [
+        51.4223346,
+        -0.9831238
+    ],
+    "Twerton Park Stadium, England": [
+        51.3791099,
+        -2.395085
+    ],
+    "St George's Park National Football Centre, England": null,
+    "Chigwell Construction Stadium, England": [
+        51.5475442,
+        0.1598273
+    ],
+    "Walton Hall Park, England": null,
+    "Ashton Gate, England": [
+        51.4398694,
+        -2.6203405
+    ],
+    "The Hive Stadium, England": [
+        51.6026364,
+        -0.2917085
+    ],
+    "Joie Stadium, England": [
+        53.4812663,
+        -2.1928127
+    ],
+    "Tottenham Hotspur Stadium, England": [
+        51.604157,
+        -0.0662604
+    ],
+    "Prenton Park, England": [
+        53.3736791,
+        -3.032617
+    ],
+    "The American Express Community Stadium, England": null,
+    "Brisbane Road, England": null,
+    "Pirelli Stadium, England": [
+        52.8218506,
+        -1.6269256
+    ],
+    "Stadio Amerigo Liguori, Italy": null,
+    "Stadio Curva Fiesole - Viola Park, Italy": null,
+    "Stadio Comunale Vittorio Pozzo Lamarmora, Italy": [
+        45.5528801,
+        8.0581006
+    ],
+    "Stadio Enzo Ricci, Italy": null,
+    "Stadio La Sciorba, Italy": [
+        44.4444388,
+        8.9686225
+    ],
+    "Stadio Silvio Piola, Italy": [
+        45.4357485,
+        8.5958371
+    ],
+    "Stadio Giuseppe Piccolo, Italy": null,
+    "Puma House of Football - Centro P. Vismara, Italy": null,
+    "Stadio Tre Fontane, Italy": null,
+    "Stadio Ferruccio, Italy": [
+        45.6353067,
+        9.2080139
+    ],
+    "Stadio Comunale Di Palma Campania, Italy": null,
+    "Arena Civica Gianni Brera, Italy": [
+        45.4758635,
+        9.1791515
+    ],
+    "Stadio Ernesto Breda, Italy": [
+        45.5331324,
+        9.2189617
+    ],
+    "Stadio Ferruccio Chittolina, Italy": [
+        44.2776023,
+        8.4353733
+    ],
+    "Viola Park, Italy": null,
+    "Stadio Comunale Gino Bozzi, Italy": [
+        43.7495105,
+        11.2386102
+    ],
+    "GMC Athletic Stadium, India": [
+        15.4675238,
+        73.8618724
+    ],
+    "Pandit Jawaharlal Nehru Stadium, India": [
+        15.2897621,
+        73.9623533
+    ],
+    "Tilak Maidan Stadium, India": [
+        15.4006296,
+        73.8151771
+    ],
+    "Adams Park, England": [
+        51.6304108,
+        -0.8002826
+    ],
+    "Haig Avenue, England": [
+        53.6381177,
+        -2.978788
+    ],
+    "The Rush Green Stadium, England": null,
+    "Clayson Stadium, England": null,
+    "Stoke Gifford Stadium, England": null,
+    "St Andrew's @ Knighthead Park, England": null,
+    "DCBL Stadium, England": null,
+    "Lookers Vauxhall Stadium, England": null,
+    "London Stadium, England": [
+        51.5386207,
+        -0.0166238
+    ],
+    "HBF Park, Australia": [
+        -31.945727,
+        115.8699183
+    ],
+    "Wellington Regional Stadium, Australia": null,
+    "Allianz Stadium (Sydney), Australia": [
+        -33.8891571,
+        151.2251352
+    ],
+    "AAMI Park, Australia": [
+        -37.8251046,
+        144.983743
+    ],
+    "Forsyth Barr, New Zealand": null,
+    "Victoria Park, Australia": null,
+    "Coopers Stadium, Australia": [
+        -34.9075037,
+        138.5689336
+    ],
+    "Eden Park, New Zealand": [
+        -36.8750352,
+        174.7440567
+    ],
+    "FMG Stadium Waikato, New Zealand": [
+        -37.781191,
+        175.2681686
+    ],
+    "Accor Stadium, Australia": [
+        -33.8471082,
+        151.0633848
     ]
 }
