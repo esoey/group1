@@ -53,7 +53,7 @@ class Pipeline:
     def __init__(self, data_dir: str = None, shared_dir: str = None):
         """Initialize the pipeline with output directories."""
         if data_dir is None:
-            temp_dir = os.environ.get("DAT535_OUTPUT_DIR")
+            temp_dir = get_paths()
         else:
             temp_dir = get_paths(data_dir)
     
@@ -63,7 +63,6 @@ class Pipeline:
         self.competitions_dir = temp_dir["COMPETITIONS"]
         self.matches_dir = temp_dir["MATCHES"]
         self.events_dir = temp_dir["EVENTS"]
-        DATA_DIR = Path(os.environ["STATSBOMB_DATA_DIR"])
         self.bronze_dir = f"{shared_dir}/data/bronze"
         self.silver_dir = f"{shared_dir}/data/silver"
         self.gold_dir = f"{shared_dir}/data/gold"
