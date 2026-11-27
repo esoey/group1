@@ -15,7 +15,7 @@ jobs:
       JAVA_HOME: /usr/lib/jvm/java-17-openjdk-amd64
       STATSBOMB_DATA_DIR: /home/ubuntu/group1/open-data
       DAT535_OUTPUT_DIR: /home/ubuntu/football-data/dev
-      COORDINATES_CACHE_PATH: /home/ubuntu/group1/data/stadium_coordinates.json
+      COORDINATES_CACHE_PATH: /home/ubuntu/group1/project/data/stadium_coordinates.json
     steps:
       - name: Checkout code
         uses: actions/checkout@v7
